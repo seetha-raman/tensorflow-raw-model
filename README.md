@@ -2,10 +2,10 @@
 
 This model uses Core Tensorflow to implement Neural network model for classifying letter from different font images 
 
-Final Result:
+Final Result:  
 <img src="validation-accuracy-result.png">
 
-There are 3 main parts of this model:
+There are 2 main parts of this model:
 
 1. **Model**: Raw Tensorflow model implementation
 
@@ -14,7 +14,7 @@ There are 3 main parts of this model:
 ## Datasets
 
 Datasets necessary for this implementation  
-[notMNIST training dataset](https://s3.amazonaws.com/udacity-sdc/notMNIST_train.zip) 
+[notMNIST training dataset](https://s3.amazonaws.com/udacity-sdc/notMNIST_train.zip)  
 [notMNIST testing dataset](https://s3.amazonaws.com/udacity-sdc/notMNIST_test.zip) 
 
 ## List of Hyperparameters used:
