@@ -19,7 +19,7 @@ Datasets necessary for this implementation
 
 ## List of Hyperparameters used:
 
-* Model = **PyTorch Embedding layer model**
+* Model = **Raw Tensorflow model**
 * Batch Size - **128** 
 * Epochs - **4**  
 * Loss - **Cross Entropy** 
